@@ -1,0 +1,6 @@
+faster-whisper
+ffmpeg-python
+googletrans==4.0.0-rc1
+tk
+pillow<10.0.0
+python-vlc
